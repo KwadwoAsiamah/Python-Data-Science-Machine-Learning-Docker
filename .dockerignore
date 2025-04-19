@@ -1,0 +1,22 @@
+# Ignore .git directory
+.git
+
+# Ignore img directory
+img
+
+# Ignore notebooks directory
+notebooks
+
+# Ignore Docker-related files
+.dockerignore
+Dockerfile
+
+# Ignore LICENSE file
+LICENSE
+
+# Ignore README file
+README.md
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
